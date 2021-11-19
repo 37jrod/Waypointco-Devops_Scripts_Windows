@@ -1,1 +1,1 @@
-# Waypointco-Devops_Scripts_Windows
+# Devops_Scripts_Windows
